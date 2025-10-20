@@ -1,4 +1,4 @@
-# Arch/Hyprland Bluetooth Fix Script (`fixblue.sh`)
+# Arch/Hyprland Bluetooth Fix Script (`fxblue`)
 
 This script automates the common troubleshooting steps required to establish a stable and functional Bluetooth stack on an Arch Linux system, particularly when using the Hyprland Wayland compositor and the PipeWire audio backend.
 
